@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 525387b1-1528-4728-a616-6f57d2a34d69)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 93.98 49.53) (size 25.4 15.24) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 925d75c4-de6e-4540-9e02-6341c2b379d1)
+    (property "Sheetname" "Power supplies" (at 93.98 48.8184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power_supplies.kicad_sch" (at 93.98 65.3546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "GaN based Battery Disconnect"
+        (path "/525387b1-1528-4728-a616-6f57d2a34d69" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 44.45 48.26) (size 30.48 15.24) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a4af0f90-9694-45a8-86a1-2f9082dd6b02)
+    (property "Sheetname" "Power Stage" (at 44.45 47.5484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power_stage.kicad_sch" (at 44.45 64.0846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "GaN based Battery Disconnect"
+        (path "/525387b1-1528-4728-a616-6f57d2a34d69" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

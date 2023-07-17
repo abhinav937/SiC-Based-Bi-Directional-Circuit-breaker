@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2EDF7275F
+D EiceDRIVER 2EDF 4/8A 4V  DSO-16
+K
+F https://www.infineon.com/dgdl/Infineon-2EDF7275K-DataSheet-v02_08-EN.pdf?fileId=5546d462636cc8fb0163b0900069305a
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GS-065-060-5-T-A
+D Automotive 650V, 60A, Enhancement mode GaN Transistor, GaNPX package, Top-side cooled
+K
+F https://gansystems.com/wp-content/uploads/2022/01/GS-065-060-5-T-A-DS-Rev-220127.pdf
+$ENDCMP
+#
+#End Doc Library
