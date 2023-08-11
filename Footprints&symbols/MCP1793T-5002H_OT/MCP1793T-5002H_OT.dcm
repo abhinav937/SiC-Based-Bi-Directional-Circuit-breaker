@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1793T-5002H_OT
+D LDO Voltage Regulators High input voltage regulator 5.0 V 5Ld SOT-23 TR
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP1792-Family-Data-Sheet-DS20006229A.pdf
+$ENDCMP
+#
+#End Doc Library

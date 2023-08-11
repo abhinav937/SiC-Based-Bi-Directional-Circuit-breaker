@@ -1,0 +1,82 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 525387b1-1528-4728-a616-6f57d2a34d69)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 78.74 113.03) (size 25.4 15.24) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 08971e4e-e8fe-4bf4-848e-6b7bf460c909)
+    (property "Sheetname" "MCU Stage" (at 78.74 112.3184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU.kicad_sch" (at 78.74 128.8546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "SiC based Battery Disconnect"
+        (path "/525387b1-1528-4728-a616-6f57d2a34d69" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 78.74 58.42) (size 25.4 15.24) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 925d75c4-de6e-4540-9e02-6341c2b379d1)
+    (property "Sheetname" "Power supplies" (at 78.74 57.7084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power_supplies.kicad_sch" (at 78.74 74.2446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "SiC based Battery Disconnect"
+        (path "/525387b1-1528-4728-a616-6f57d2a34d69" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 78.74 27.94) (size 25.4 15.24) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a4af0f90-9694-45a8-86a1-2f9082dd6b02)
+    (property "Sheetname" "Power Stage" (at 78.74 27.2284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power_stage.kicad_sch" (at 78.74 43.7646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "SiC based Battery Disconnect"
+        (path "/525387b1-1528-4728-a616-6f57d2a34d69" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 78.74 86.36) (size 25.4 15.24) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b74c6b34-d7cd-41a9-8566-5a1ea50c5493)
+    (property "Sheetname" "Current sense Amplifier" (at 78.74 85.6484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Current sense Amplifier.kicad_sch" (at 78.74 102.1846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "SiC based Battery Disconnect"
+        (path "/525387b1-1528-4728-a616-6f57d2a34d69" (page "5"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

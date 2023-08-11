@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IMW120R014M1H
+D CoolSiC 1200 V, 14 m SiC Trench MOSFET in TO247-3 package
+K
+F https://www.infineon.com/dgdl/Infineon-IMW120R014M1H-DataSheet-v01_10-EN.pdf?fileId=8ac78c8c7f2a768a017f8783973231b5
+$ENDCMP
+#
+#End Doc Library

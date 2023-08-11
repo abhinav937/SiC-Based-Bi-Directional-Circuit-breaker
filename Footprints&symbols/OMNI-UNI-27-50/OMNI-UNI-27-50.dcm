@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OMNI-UNI-27-50
+D HEATSINK TO-247 TO-264 TO-220
+K
+F http://www.wakefield-vette.com/Portals/0/omniKlip/omniKlip%20Wakefield%20Vette%20Data%20Sheet%20Full.pdf
+$ENDCMP
+#
+#End Doc Library

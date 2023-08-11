@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1792T-5002H_CB
+D LDO Voltage Regulators High input voltage regulator 5.0 V 3Ld SOT-23A TR
+K
+F https://componentsearchengine.com/Datasheets/1/MCP1792T-5002H_CB.pdf
+$ENDCMP
+#
+#End Doc Library
