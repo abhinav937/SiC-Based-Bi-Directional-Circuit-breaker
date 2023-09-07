@@ -15,4 +15,5 @@
   (lib (name "AP2210N-3.3TRG1")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/AP2210N-3.3TRG1/AP2210N-3.3TRG1.kicad_sym")(options "")(descr ""))
   (lib (name "7461057")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/7461057/7461057.lib")(options "")(descr ""))
   (lib (name "TC4432VOA")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/TC4432VOA/TC4432VOA.kicad_sym")(options "")(descr ""))
+  (lib (name "5001")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/5001 tp/5001.kicad_sym")(options "")(descr ""))
 )

@@ -13,4 +13,6 @@
   (lib (name "PIC16F15345T-E_SSVAO")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/PIC16F15345T-E_SSVAO")(options "")(descr ""))
   (lib (name "Silkscreen")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/Silkscreen")(options "")(descr ""))
   (lib (name "TC4432VOA")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/TC4432VOA")(options "")(descr ""))
+  (lib (name "5001 tp")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/5001 tp")(options "")(descr ""))
+  (lib (name "Varistor")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/Varistor")(options "")(descr ""))
 )
